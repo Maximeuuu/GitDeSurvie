@@ -14,7 +14,7 @@
 ## initialiser le site
 1. ``https://github.com/<utilisateur>/<projet>``
 2. rendre publique : `settings` > `change visibility` > `make public`
-3. source : `deploy from a branch`, branch : `main`, folder : `/(root)`
+3. source : `settings` > `pages` > `deploy from a branch`, branch : `main`, folder : `/(root)`
 4. ajouter la page : `add file` > `README.md` ou `index.md`
 
 ## liens utiles
