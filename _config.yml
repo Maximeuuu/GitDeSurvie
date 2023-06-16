@@ -1,0 +1,9 @@
+remote_theme: pages-themes/tactile
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+ 
+title: Initiation GIT
+
+description: "Résumé de commandes GIT + liens vers TP1 à 5 de la SAE 2.03"
+
+gem "github-pages", group: :jekyll_plugins
