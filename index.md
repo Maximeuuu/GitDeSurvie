@@ -1,6 +1,8 @@
 **Nom :** Maxime Lemoine
+
 **Année :** 2023
-**IUT Le Havre - Cours GIT**
+
+**IUT Le Havre - GIT**
 
 ---
 
