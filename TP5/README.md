@@ -1,4 +1,10 @@
-**Nom :** Maxime Lemoine	**Groupe :** B		**Année :** 2023	**IUT Le Havre - Cours GIT**
+**Nom :** Maxime Lemoine
+
+**Groupe :** B
+
+**Année :** 2023
+
+**IUT Le Havre - Cours GIT**
 
 ---
 
