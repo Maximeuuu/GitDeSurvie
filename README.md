@@ -68,7 +68,4 @@ git fetch origin
 git reset --hard origin/nom_de_ta_branche
 ```
 
-
-## Commandes utiles
-
-* changer le branche par défaut : ``git config --global init.defaultBranch main``
+- changer le branche par défaut : ``git config --global init.defaultBranch main``
