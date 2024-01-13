@@ -33,6 +33,7 @@ TODO
 
 
 ## Random
+- réinitialiser le projet à l'état du dernier commit effectué : git stash
 - voir les modifications récentes : `git log`
 - git add .
 - ajouter un dépot distant        : `git remote`
