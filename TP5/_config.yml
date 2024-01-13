@@ -1,9 +1,0 @@
-remote_theme: pages-themes/tactile
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
- 
-title: tp5
-
-description: "TP 5 : Maxime"
-
-gem "github-pages", group: :jekyll_plugins

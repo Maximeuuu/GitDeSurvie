@@ -1,9 +1,0 @@
-remote_theme: pages-themes/tactile
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
- 
-title: tp3
-
-description: "TP 3 : Travailler en équipe sur un depôt github distant - Maxime"
-
-gem "github-pages", group: :jekyll_plugins
