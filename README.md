@@ -1,6 +1,9 @@
 **Auteur :** Maxime Lemoine
+
 **Création :** 2023
+
 **Maj :** 13/01/2024
+
 **IUT Le Havre - Utilisation de GIT**
 
 ---
