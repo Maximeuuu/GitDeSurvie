@@ -1,71 +1,39 @@
-**Nom :** Maxime Lemoine
-
-**Année :** 2023
-
-**IUT Le Havre - GIT**
+**Auteur :** Maxime Lemoine
+**Création :** 2023
+**Maj :** 13/01/2024
+**IUT Le Havre - Utilisation de GIT**
 
 ---
 
-# Initiation GIT
+# I - Documentation rapide
 
+## A - Configuration
 
-* [TP1](https://github.com/Maximeuuu/initiation_GIT/tree/main/TP1)
-* [TP2](https://github.com/Maximeuuu/initiation_GIT/tree/main/TP2)
-* [TP3](https://github.com/Maximeuuu/initiation_GIT/tree/main/TP3)
-* [TP4](https://github.com/Maximeuuu/initiation_GIT/tree/main/TP4)
-* [TP5](https://github.com/Maximeuuu/initiation_GIT/tree/main/TP5)
+* [Installation](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/Installation.md)
+* [Configuration](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/ConfigurationGit.md)
 
-* * *
+## B - Création
 
-## Exporter un projet local sur GitHub
+* [Nouveau projet](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/NouveauProjet.md)
+* [Duplication de projet](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/DuplicationProjets.md)
 
-Dans GitHub :
+## C - Projet
 
-1. Créer un nouveau projet ``repositories > new``
-2. Lui donner un nom (exemple : projet)
-3. Récupérer l'URL du projet
+* [Commandes dans un projet](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/CommandesProjet.md)
+* [Résolution des conflits](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/Conflits.md)
 
-Dans un terminal :
+## C - Documentation
 
-1. Se déplacer dans le projet local à exporter : ``cd <repertoire>``
-2. Initialiser le dépot GIT : ``git init``
-3. Ajouter le contenu à l'index GIT : ``git add .``
-4. Enregistrer les modifications : ``git commit -m "Initial commit"``
-5. Ajouter le référenciel distant : ``git remote add origin <url_projet>``
-6. Vérifier que l'origine est bien configuré : ``git remote -v``
-7. Envoyer le projet local vers le distant : ``git push -u origin main``
+* [Markdown](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/Markdown.md)
+* [Fichiers projet](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/FichiersProjet.md)
+* [GitHub pages](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/GitHubPages.md)
 
-* * *
+---
 
-## Réunir plusieurs projets GitHub dans un seul répertoire de projet
+# II - Initiation GIT
 
-Dans GitHub : 
-
-1. Créer un nouveau projet ``repositories > new``
-2. Lui donner un nom (exemple : projets)
-3. Récupérer l'URL du projet
-
-Dans un terminal :
-
-1. Créer un nouveau répertoire : ``mkdir <repertoire>``
-2. Se déplacer dedans : ``cd <repertoire>``
-3. Créer un répertoire pour chaque projet à réunir : ``mkdir <projetX>``
-4. Cloner chaque repertoire : ``git clone <url_projetX>``
-5. Supprimer le ``.git`` de chaque répertoire cloné
-6. Ajouter le contenu à l'index GIT : ``git add .``
-7. Enregistrer les modifications : ``git commit -m "Initial commit"``
-8. Ajouter le référenciel distant : ``git remote add origin <url_projet>``
-9. Vérifier que l'origine est bien configuré : ``git remote -v``
-10. Envoyer le projet local vers le distant : ``git push -u origin main``
-
-* * *
-
-## Commandes utiles
-
-- forcer un reset local :
-```
-git fetch origin
-git reset --hard origin/nom_de_ta_branche
-```
-
-- changer le branche par défaut : ``git config --global init.defaultBranch main``
+* [TP1](https://github.com/Maximeuuu/initiation_GIT/tree/main/TP-exemples/TP1)
+* [TP2](https://github.com/Maximeuuu/initiation_GIT/tree/main/TP-exemples/TP2)
+* [TP3](https://github.com/Maximeuuu/initiation_GIT/tree/main/TP-exemples/TP3)
+* [TP4](https://github.com/Maximeuuu/initiation_GIT/tree/main/TP-exemples/TP4)
+* [TP5](https://github.com/Maximeuuu/initiation_GIT/tree/main/TP-exemples/TP5)
