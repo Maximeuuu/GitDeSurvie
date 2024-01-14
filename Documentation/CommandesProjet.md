@@ -39,6 +39,7 @@ TODO
 - ajouter un dépot distant        : `git remote`
 - mettre à jour le dépot distant  : `git push`
 - mettre à jour le dépot local    : `git pull`
+- réécrire le dernier commit : git commit --amend -m "message"
 
 ## A regarder
 
