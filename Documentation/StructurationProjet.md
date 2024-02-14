@@ -22,6 +22,17 @@ https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Branches-et-fusions%C2%A0%3
 3. mettre à jour     : `git push --set-upstream origin <nom-branche>`
 
 ## D - Fusionner deux branches
-1. se déplacer dans la branche principale : `git checkout <nom-branche-principale>`
-2. fusionner : `git merge <nom-branche>`
-3. supprimer : `git branch -d <nom-branche>`
+
+### a) Fusionner (merge)
+Ajoute un seul commit pour tout l'ajout
+1. se déplacer dans la branche principale : `git checkout <branche-principale>`
+2. fusionner : `git merge <branche-secondaire>`
+3. supprimer : `git branch -d <branche-secondaire>`
+
+### b) Rebaser (rebase)
+Ajoute tous les commits de la branche
+1. se déplacer dans la branche secondaire : `git checkout <branche-secondaire>`
+2. rebaser (ajouter les commits) : `git rebase <branche-principale>`
+3. se déplacer dans la branche principale : `git checkout <branche-principale>`
+4. fusionner : `git merge <branche-secondaire>`
+5. supprimer : `git branch -d <branche-secondaire>`
