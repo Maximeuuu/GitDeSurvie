@@ -23,6 +23,7 @@
 ## C - Projet
 
 * [Commandes dans un projet](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/CommandesProjet.md)
+* [Structurer le projet](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/StructurationProjet.md)
 * [Résolution des conflits](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/Conflits.md)
 
 ## C - Documentation
