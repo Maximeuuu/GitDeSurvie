@@ -56,24 +56,29 @@ git reset --hard origin/nom_de_ta_branche
 
 - changer le branche par défaut : ``git config --global init.defaultBranch main``
 
+---
 
 ## Branches
 Permet de créer des nouvelles fonctionnalités
+https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Branches-et-fusions%C2%A0%3A-les-bases
 
 - branche principale : main / master
 - Lorsqu'une branche est créée, tous les fichiers sont copiés dans celle-ci.
 - Les modifications apportées sur la branches n'influent pas sur la branche d'origine.
 
-### Commandes affichage
-- obtenir la branche    : `git branch`
-- arborescence du dépot : `git log --graph --oneline --all --decorate --topo-order`
+### Commandes de base
+- obtenir la branche actuelle : `git branch`
+   - "*" signifie qu'il s'agit de la branche de travail actuelle
+- basculer entre les branches : `git checkout <nom-branche>`
+- arborescence du dépot       : `git log --graph --oneline --all --decorate --topo-order`
 
-## Créer une branche
+### Créer une branche
 1. créer             : `git checkout -b <nom-branche>`
 2. afficher branches : `git branch`
-- "*" signifie qu'il s'agit de la branche de travail actuele
-- basculer entre les branches : `git checkout <nom-branche>`
+3. mettre à jour     : `git push --set-upstream origin <nom-branche>`
 
 ## Fusionner une branche dans la principale
 1. se déplacer dans la branche 'main' : `git checkout main`
 2. fusionner : `git merge <nom-branche>`
+3. supprimer : `git branch -d <nom-branche>`
+4. maj ??
