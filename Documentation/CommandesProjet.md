@@ -56,5 +56,7 @@ git reset --hard origin/nom_de_ta_branche
 
 - changer le branche par défaut : ``git config --global init.defaultBranch main``
 - `git reset HEAD^^`
+- rebaser les 3 derniers commit : `git rebase HEAD~3`
+- changer les commits (?) : `git rebase -i <branche>`
 
 
