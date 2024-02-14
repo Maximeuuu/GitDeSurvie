@@ -41,6 +41,10 @@ TODO
 - mettre à jour le dépot local    : `git pull`
 - réécrire le dernier commit : git commit --amend -m "message"
 
+## Mettre en pause une modification (sans commit)
+- mettre en pause `git stash`
+- liste des éléments sauvegardés : `git stash list`
+
 ## A regarder
 
 - git switch + git restore
