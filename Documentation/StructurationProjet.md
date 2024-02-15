@@ -36,3 +36,13 @@ Ajoute tous les commits de la branche
 3. se déplacer dans la branche principale : `git checkout <branche-principale>`
 4. fusionner : `git merge <branche-secondaire>`
 5. supprimer : `git branch -d <branche-secondaire>`
+
+## E - Supprimer une branche
+
+https://fr.w3docs.com/snippets/git/comment-supprimer-des-branches-locales-et-distantes-dans-git.html
+
+### a) Localement
+- `git branch -d <branche>`
+
+### b) Distance
+- `git push origin --delete <branche>`
