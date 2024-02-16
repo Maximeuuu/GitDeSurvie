@@ -17,7 +17,7 @@ https://git-scm.com/book/fr/v2/Les-branches-avec-Git-Branches-et-fusions%C2%A0%3
 - arborescence du dépot       : `git log --graph --oneline --all --decorate --topo-order`
 
 ## C - Créer une branche
-1. créer             : `git checkout -b <nom-branche>`
+1. créer             : `git checkout -b <nom-branche>` / `git branch <nom-branche>`
 2. afficher branches : `git branch`
 3. mettre à jour     : `git push --set-upstream origin <nom-branche>`
 
