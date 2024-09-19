@@ -12,25 +12,25 @@
 
 ## A - Configuration
 
-* [Installation](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/Installation.md)
-* [Configuration](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/ConfigurationGit.md)
+* [Installation](Documentation/Installation.md)
+* [Configuration](Documentation/ConfigurationGit.md)
 
 ## B - Création
 
-* [Nouveau projet](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/NouveauProjet.md)
-* [Duplication de projet](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/DuplicationProjets.md)
+* [Nouveau projet](Documentation/NouveauProjet.md)
+* [Duplication de projet](DuplicationProjets.md)
 
 ## C - Projet
 
-* [Commandes dans un projet](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/CommandesProjet.md)
-* [Structurer le projet](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/StructurationProjet.md)
-* [Résolution des conflits](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/Conflits.md)
+* [Commandes dans un projet](Documentation/CommandesProjet.md)
+* [Structurer le projet](Documentation/StructurationProjet.md)
+* [Résolution des conflits](Documentation/Conflits.md)
 
 ## C - Documentation
 
-* [Markdown](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/Markdown.md)
-* [Fichiers projet](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/FichiersProjet.md)
-* [GitHub pages](https://github.com/Maximeuuu/initiation_GIT/tree/main/Documentation/GitHubPages.md)
+* [Markdown](Documentation/Markdown.md)
+* [Fichiers projet](Documentation/FichiersProjet.md)
+* [GitHub pages](Documentation/GitHubPages.md)
 
 ---
 
