@@ -2,7 +2,7 @@
 
 **Création :** 2023
 
-**Maj :** 13/01/2024
+**Maj :** 19/09/2024
 
 **IUT Le Havre - Utilisation de GIT**
 
@@ -24,9 +24,13 @@
 
 * [Commandes dans un projet](Documentation/CommandesProjet.md)
 * [Structurer le projet](Documentation/StructurationProjet.md)
+
+## D - Travailler en équipe
+
+* [Fonctionnement FIB](Documentation/FIB.md)
 * [Résolution des conflits](Documentation/Conflits.md)
 
-## C - Documentation
+## E - Documentation
 
 * [Markdown](Documentation/Markdown.md)
 * [Fichiers projet](Documentation/FichiersProjet.md)
@@ -36,8 +40,8 @@
 
 # II - Initiation GIT
 
-* [TP1](https://github.com/Maximeuuu/initiation_GIT/tree/main/TP-exemples/TP1)
-* [TP2](https://github.com/Maximeuuu/initiation_GIT/tree/main/TP-exemples/TP2)
-* [TP3](https://github.com/Maximeuuu/initiation_GIT/tree/main/TP-exemples/TP3)
-* [TP4](https://github.com/Maximeuuu/initiation_GIT/tree/main/TP-exemples/TP4)
-* [TP5](https://github.com/Maximeuuu/initiation_GIT/tree/main/TP-exemples/TP5)
+* [TP1](TP-exemples/TP1/README.md)
+* [TP2](TP-exemples/TP2/README.md)
+* [TP3](TP-exemples/TP3/README.md)
+* [TP4](TP-exemples/TP4/README.md)
+* [TP5](TP-exemples/TP5/README.md)
