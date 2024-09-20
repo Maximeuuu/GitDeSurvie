@@ -30,7 +30,11 @@
 * [Fonctionnement FIB](Documentation/FIB.md)
 * [Résolution des conflits](Documentation/Conflits.md)
 
-## E - Documentation
+## E - Outils disponibles
+
+* [Les Codespaces](Documentation/Codespaces.md)
+
+## F - Documentation
 
 * [Markdown](Documentation/Markdown.md)
 * [Fichiers projet](Documentation/FichiersProjet.md)
