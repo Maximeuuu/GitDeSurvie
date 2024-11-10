@@ -4,6 +4,6 @@ plugins:
  
 title: Initiation GIT
 
-description: "Résumé de commandes GIT + liens vers TP1 à 5 de la SAE 2.03"
+description: "Commandes pratiques pour l'utilisation de GIT et GitHub."
 
 gem "github-pages", group: :jekyll_plugins
