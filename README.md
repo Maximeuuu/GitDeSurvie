@@ -17,20 +17,27 @@
 
 ### B - Git
 
-* [Initialiser](ressources/documentation/git/InitialiserDepot.md)
+* [Initialiser](ressources/documentation/git/InitialisationDepot.md)
 * [Dupliquer](ressources/documentation/git/DuplicationProjets.md)
+* [Commandes de base](ressources/documentation/git/CommandesGenerales.md)
 * [Branches](ressources/documentation/git/Branches.md)
+* [Réinitialiser](ressources/documentation/git/Reinitialisation.md)
+* [Gestion des conflits](ressources/documentation/git/Conflits.md)
 * [Fichiers d'un projet](ressources/documentation/git/FichiersProjet.md)
 
 ### C - GitHub
 
 * [FIB](ressources/documentation/github/FIB.md)
+* [Pull request](ressources/documentation/github/PullRequest.md)
 * [GitHub Pages](ressources/documentation/github/GitHubPages.md)
 * [Codespaces](ressources/documentation/github/Codespaces.md)
 
 ### D - Divers
 
-* [FIB](ressources/documentation/divers/Markdown.md)
+* [Markdown](ressources/documentation/divers/Markdown.md)
+
+### E - TP d'application
+
 * [TP1](ressources/exemples/TP1/README.md)
 * [TP2](ressources/exemples/TP2/README.md)
 * [TP3](ressources/exemples/TP3/README.md)
