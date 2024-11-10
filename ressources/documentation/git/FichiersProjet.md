@@ -16,3 +16,7 @@ Permet de documenter
 ## C - LICENSE
 
 - MIT
+
+## D - .gitkeep
+
+Permet de garder des dossiers vides, dans un référentiel git.
