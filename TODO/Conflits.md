@@ -1,9 +1,7 @@
 L'objectif est de savoir comment résoudre des conflits.
 ===
 
-***
-TODO
-***
+TODO: à reformater / nettoyer / compléter
 
 ## Situations
 - lorsqu'il y a des modifications sur le même fichier localement

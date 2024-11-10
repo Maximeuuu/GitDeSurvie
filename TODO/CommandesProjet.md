@@ -1,6 +1,8 @@
 Commandes utiles
 ===
 
+TODO: à reformater / nettoyer / compléter
+
 ## A - Mettre à jour distant vers local
 1. `git pull`
 

@@ -1,5 +1,4 @@
-Fonctionnalité -> Issue -> Branche
-===
+# FIB : Fonctionnalité -> Issue -> Branche
 
 ## A - Infos branches
 
@@ -11,7 +10,7 @@ Chaque fonctionnalité indépendante doit être dans une nouvelle branche.
 
 ## B - Initialisation du projet
 
-- inviter des collaborateurs : `settings > Collaborator people >` saisir id utilisateur
+- inviter des collaborateurs : `settings` > `Collaborator people` > saisir id utilisateur
 
 ## C - Ajouter une nouvelle fonctionnalité
 
@@ -31,10 +30,12 @@ Chaque fonctionnalité indépendante doit être dans une nouvelle branche.
 2. Créer une nouvelle branche dédiée : `git checkout -b <BRANCHE-FEATURE>`
 3. Ajouter la/les fonctionnalité/s dans le code
 4. Mettre à jour la branche
-```git
-git add .
-git commit -m "Ajout de ..."
-```
+
+    ```git
+    git add .
+    git commit -m "Ajout de ..."
+    ```
+
 5. "Comparer et pousser" la branche de fonctionnalité vers la branche principale : `git push origin <BRANCHE-PRINCIPALE>`
 
 **Proposer une révision de code :**

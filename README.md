@@ -1,51 +1,38 @@
+# Git de survie
+
 **Auteur :** Maxime Lemoine
 
 **Création :** 2023
 
-**Maj :** 19/09/2024
-
-**IUT Le Havre - Utilisation de GIT**
+**Maj :** 10/11/2024
 
 ---
 
-# I - Documentation rapide
+## I - documentation
 
-## A - Configuration
+### A - Configuration
 
-* [Installation](Documentation/Installation.md)
-* [Configuration](Documentation/ConfigurationGit.md)
+* [GIT](ressources/documentation/config/GIT.md)
+* [GitHub](ressources/documentation/config/GitHub.md)
 
-## B - Création
+### B - Git
 
-* [Nouveau projet](Documentation/NouveauProjet.md)
-* [Duplication de projet](DuplicationProjets.md)
+* [Initialiser](ressources/documentation/git/InitialiserDepot.md)
+* [Dupliquer](ressources/documentation/git/DuplicationProjets.md)
+* [Branches](ressources/documentation/git/Branches.md)
+* [Fichiers d'un projet](ressources/documentation/git/FichiersProjet.md)
 
-## C - Projet
+### C - GitHub
 
-* [Commandes dans un projet](Documentation/CommandesProjet.md)
-* [Structurer le projet](Documentation/StructurationProjet.md)
+* [FIB](ressources/documentation/github/FIB.md)
+* [GitHub Pages](ressources/documentation/github/GitHubPages.md)
+* [Codespaces](ressources/documentation/github/Codespaces.md)
 
-## D - Travailler en équipe
+### D - Divers
 
-* [Fonctionnement FIB](Documentation/FIB.md)
-* [Résolution des conflits](Documentation/Conflits.md)
-
-## E - Outils disponibles
-
-* [Les Codespaces](Documentation/Codespaces.md)
-
-## F - Documentation
-
-* [Markdown](Documentation/Markdown.md)
-* [Fichiers projet](Documentation/FichiersProjet.md)
-* [GitHub pages](Documentation/GitHubPages.md)
-
----
-
-# II - Initiation GIT
-
-* [TP1](TP-exemples/TP1/README.md)
-* [TP2](TP-exemples/TP2/README.md)
-* [TP3](TP-exemples/TP3/README.md)
-* [TP4](TP-exemples/TP4/README.md)
-* [TP5](TP-exemples/TP5/README.md)
+* [FIB](ressources/documentation/divers/Markdown.md)
+* [TP1](ressources/exemples/TP1/README.md)
+* [TP2](ressources/exemples/TP2/README.md)
+* [TP3](ressources/exemples/TP3/README.md)
+* [TP4](ressources/exemples/TP4/README.md)
+* [TP5](ressources/exemples/TP5/README.md)

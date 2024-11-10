@@ -1,5 +1,4 @@
-Codespaces
-===
+# Codespaces
 
 ## A - Général
 
@@ -30,7 +29,7 @@ Synchroniser les données du Codespace sur le dépôt Github :
 
 ## E - Arrêt
 
-1. `gh codespace stop` 
+1. `gh codespace stop`
 2. Choisir le codespace à arrêter
 
 OU
