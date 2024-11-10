@@ -4,7 +4,7 @@
 
 1. `git init`
 2. verifier si le repertoire existe déjà     : `git remote -v`
-3. lier le dépot local et répertoire distant : `git remote add origin <utilisateur>/<dossier>.git`
+3. lier le dépot local et répertoire distant : `git remote add origin <url>.git`
 4. nom de la branche (main/master)           : `git branch`
 5. créer un lien permanant et maj dépot      : `git push -u origin master`
 

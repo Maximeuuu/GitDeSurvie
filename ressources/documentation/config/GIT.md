@@ -17,6 +17,7 @@
 
 ### A - Configuration utilisateur
 
-- liste des configuration : `git config --list`
-- ajouter un auteur : `git config --global user.name "Maxime"`
-- ajouter un email  : `git config --global user.email "<email>"`
+- `git config --list` : liste des configuration
+- `git config --global user.name "Maxime"` : ajouter un auteur
+- `git config --global user.email "<email>"` : ajouter un email
+- `git config --global init.defaultBranch main` : Changer la branche par défaut à "main"

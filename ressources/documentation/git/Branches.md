@@ -15,7 +15,7 @@ Permet de créer des nouvelles fonctionnalités
 
   "*" signifie qu'il s'agit de la branche de travail actuelle
 
-- basculer entre les branches : `git checkout <nom-branche>`
+- basculer entre les branches : `git checkout <nom-branche>` / `git switch <nom-branche>`
 - arborescence du dépot : `git log --graph --oneline --all --decorate --topo-order`
 
 ## C - Créer une branche
