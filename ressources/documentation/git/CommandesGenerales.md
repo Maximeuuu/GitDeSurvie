@@ -43,3 +43,7 @@
 - `git stash branch <branche>` : créer une nouvelle branche à partir d'un stash
 - **`git stash pop`** : Réappliquer le dernier stash et le supprimer de la liste.
 - `git stash clear` : Supprimer tous les stash.
+
+## A regarder
+
+- git bisect
