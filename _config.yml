@@ -4,6 +4,6 @@ plugins:
  
 title: Initiation GIT
 
-description: "Commandes pratiques pour l'utilisation de GIT et GitHub."
+description: "Commandes pratiques pour l'utilisation de GIT et GitHub. [Menu](/)"
 
 gem "github-pages", group: :jekyll_plugins
