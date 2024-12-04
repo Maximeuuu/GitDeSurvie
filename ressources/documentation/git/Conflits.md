@@ -20,3 +20,7 @@
     - `git add <fichier>`
     - `git commit -m "Conflit <fichier> résolu"`
     - `git push`
+
+## C - Problèmes de retour à la ligne
+
+1. git add --renormalize .
