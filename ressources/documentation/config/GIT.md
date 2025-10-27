@@ -21,3 +21,8 @@
 - `git config --global user.name "Maxime"` : ajouter un auteur
 - `git config --global user.email "<email>"` : ajouter un email
 - `git config --global init.defaultBranch main` : Changer la branche par défaut à "main"
+
+### B - Vérification connexion SSH
+
+- ping github : `ssh git@github.com`
+- connaitre les informations de connexion utilisées : `ssh -v git@github.com`

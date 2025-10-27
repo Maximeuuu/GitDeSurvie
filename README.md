@@ -17,8 +17,14 @@
 
 ### B - Git
 
+#### Depot
+
 * [Initialiser](ressources/documentation/git/InitialisationDepot.md)
 * [Dupliquer](ressources/documentation/git/DuplicationProjets.md)
+* [Modifier](ressources/documentation/git/ModificationDepot.md)
+
+#### Projet
+
 * [Commandes de base](ressources/documentation/git/CommandesGenerales.md)
 * [Branches](ressources/documentation/git/Branches.md)
 * [Réinitialiser](ressources/documentation/git/Reinitialisation.md)
