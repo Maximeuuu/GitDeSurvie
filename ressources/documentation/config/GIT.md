@@ -21,6 +21,7 @@
 - `git config --global user.name "Maxime"` : ajouter un auteur
 - `git config --global user.email "<email>"` : ajouter un email
 - `git config --global init.defaultBranch main` : Changer la branche par défaut à "main"
+- `git config --global core.editor "<editeur>"` : editeur
 
 ### B - Vérification connexion SSH
 
